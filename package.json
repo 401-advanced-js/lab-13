@@ -7,7 +7,9 @@
     "start": "node index.js",
     "watch": "nodemon index.js",
     "test-watch": "jest --watchAll",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint **/*.js",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
   "jest": {
     "testEnvironment": "node"
@@ -20,9 +22,12 @@
     "cors": "^2.8.4",
     "debug": "^4.1.0",
     "dotenv": "^6.1.0",
+    "eslint": "^5.16.0",
     "express": "^4.16.3",
+    "ipaddr.js": "^1.9.0",
     "jest": "^23.6.0",
     "jsonwebtoken": "^8.4.0",
+    "lint": "^1.1.2",
     "mongodb-memory-server": "^2.7.3",
     "mongoose": "^5.3.13",
     "mongoose-schema-jsonschema": "^1.1.15",
