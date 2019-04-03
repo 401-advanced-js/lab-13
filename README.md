@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 13
 
-### Author: Student/Group Name
+### Author: Spencer Hirata
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [PR](http://xyz.com)
+### Travis
+[![Build Status](https://travis-ci.com/401-advanced-js/lab-13.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-13)
 * [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
 * [swagger](http://xyz.com) (API assignments only)
