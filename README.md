@@ -15,14 +15,7 @@
 * [jsdoc](https://warm-basin-14716.herokuapp.com/docs) (All assignments)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
